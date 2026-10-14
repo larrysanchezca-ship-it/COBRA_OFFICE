@@ -29,6 +29,6 @@ Primera suiteo ofimatica andina, sudamericana creada 100 % en python sin libreri
 
 Descarga la ultima version en:
 
-
+https://github.com/larrysanchezca-ship-it/COBRA_OFFICE/tags
 
 
