@@ -27,7 +27,11 @@ Los tres archivos se guardan en la misma extension con el objetivo de no tener d
 
 Primera suiteo ofimatica andina, sudamericana creada 100 % en python sin librerias externas.
 
-Descarga la ultima version en:
+Visita nuestro canal de youtube:
+
+https://www.youtube.com/@COBRA_OFFICE
+
+DESCARGA LA ULTIMA VERSION EN:
 
 https://github.com/larrysanchezca-ship-it/COBRA_OFFICE/tags
 
