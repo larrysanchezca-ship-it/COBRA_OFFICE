@@ -21,7 +21,14 @@ En presentaciones puedes realizar anamiaciones por frames, y no solo pasar las d
 
 <img width="1014" height="620" alt="image" src="https://github.com/user-attachments/assets/d9f87359-52a0-41a9-a4df-f8067cb6c21a" />
 
+Los tres archivos se guardan en la misma extension con el objetivo de no tener direntes extensiones y poder integrar los archivos uno con otro, todo bajo la extension ".cobra".
+
+<img width="714" height="490" alt="image" src="https://github.com/user-attachments/assets/a90996c7-88bf-4ff0-99b1-02d19f1cc2e6" />
+
 Primera suiteo ofimatica andina, sudamericana creada 100 % en python sin librerias externas.
+
+Descarga la ultima version en:
+
 
 
 
