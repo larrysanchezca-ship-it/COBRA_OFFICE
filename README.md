@@ -43,5 +43,7 @@ DESPUES DE DESCARGAR COBRA OFFICE, SOLO REALIZAR CLIC EN index.py ( si deseas pu
 
 <img width="845" height="623" alt="image" src="https://github.com/user-attachments/assets/ab308035-ad62-4315-874f-d7f5d1301d6c" />
 
+Si deseas puedes usar antigravity con tu IA de preferencia para modificar su codigo fuente y crearte tu propio version personalizada:
 
+<img width="1008" height="695" alt="image" src="https://github.com/user-attachments/assets/169335db-22ba-4670-94bb-eee32c746555" />
 
