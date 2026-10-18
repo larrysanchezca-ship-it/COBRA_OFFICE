@@ -35,4 +35,13 @@ DESCARGA LA ULTIMA VERSION EN:
 
 https://github.com/larrysanchezca-ship-it/COBRA_OFFICE/tags
 
+CONSIDERA QUE DEBES TENER INSTALADA LA ULTIMA VERSION DE PYTHON, DE NO SER ASI LA PUEDES DESCARGAR DE:
+
+https://www.python.org/downloads/
+
+DESPUES DE DESCARGAR COBRA OFFICE, SOLO REALIZAR CLIC EN index.py ( si deseas puedes generar un acceso directo al escritorio) 
+
+<img width="845" height="623" alt="image" src="https://github.com/user-attachments/assets/ab308035-ad62-4315-874f-d7f5d1301d6c" />
+
+
 
