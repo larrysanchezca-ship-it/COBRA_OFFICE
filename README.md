@@ -13,7 +13,7 @@ Puedes crear codigos de barras, crear musica, y en el area de mente las ayudas q
 <img width="999" height="660" alt="image" src="https://github.com/user-attachments/assets/c09ecf1b-4add-4d4a-8bfd-532aae8183b9" />
 
 Lo mas innovador en Cobra calc puedes usar pytho nativo y una calculadora integrada conde puedes jalar y arrastrar, si no quieres programar.
-Tambien para que puedas usar en lugar de aburridas formulas, bloques para realizar las formulas, nunca antes visto en una suite ofimatica(primeros en integrarla).
+Tambien en lugar de usar aburridas fórmulas, puedes usar  bloques (estilo blockly), nunca antes visto en una suite ofimatica(primeros en integrarla).
 
 <img width="992" height="623" alt="image" src="https://github.com/user-attachments/assets/b61185ed-412c-4d2f-aaab-fe2421807716" />
 
