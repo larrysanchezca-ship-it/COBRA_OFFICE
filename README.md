@@ -47,3 +47,7 @@ Si deseas puedes usar antigravity con tu IA de preferencia para modificar su cod
 
 <img width="1008" height="695" alt="image" src="https://github.com/user-attachments/assets/169335db-22ba-4670-94bb-eee32c746555" />
 
+Visita nuestro canal de youtube:
+
+https://www.youtube.com/watch?v=yLV4d-5-hn0
+
